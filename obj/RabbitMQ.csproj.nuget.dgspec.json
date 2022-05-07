@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\Projekty-Studia\\ZAAWANSOWANE TECHNIKI PROGRAMOWANIA APLIKACJI\\Lab_3\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ.csproj": {}
+    "/Users/cris/code/ajp/AJP.RabbitMQ/RabbitMQ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\Projekty-Studia\\ZAAWANSOWANE TECHNIKI PROGRAMOWANIA APLIKACJI\\Lab_3\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ.csproj": {
+    "/Users/cris/code/ajp/AJP.RabbitMQ/RabbitMQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Projekty-Studia\\ZAAWANSOWANE TECHNIKI PROGRAMOWANIA APLIKACJI\\Lab_3\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ.csproj",
+        "projectUniqueName": "/Users/cris/code/ajp/AJP.RabbitMQ/RabbitMQ.csproj",
         "projectName": "RabbitMQ",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Projekty-Studia\\ZAAWANSOWANE TECHNIKI PROGRAMOWANIA APLIKACJI\\Lab_3\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Projekty-Studia\\ZAAWANSOWANE TECHNIKI PROGRAMOWANIA APLIKACJI\\Lab_3\\RabbitMQ\\RabbitMQ\\RabbitMQ\\obj\\",
+        "projectPath": "/Users/cris/code/ajp/AJP.RabbitMQ/RabbitMQ.csproj",
+        "packagesPath": "/Users/cris/.nuget/packages/",
+        "outputPath": "/Users/cris/code/ajp/AJP.RabbitMQ/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/cris/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ecoscada.pkgs.visualstudio.com/_packaging/iLECO.EcoSCADA/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -68,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }

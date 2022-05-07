@@ -22,7 +22,7 @@ using (var channel = connection.CreateModel())
 
     while (true)
     {
-        string message = $"Wojciech Wołoszka";
+        string message = $"Krzysztof Bogucki";
         var body = Encoding.UTF8.GetBytes(message);
 
         channel.BasicPublish(exchange: "",
