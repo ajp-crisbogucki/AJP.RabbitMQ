@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ycsKqSoquo9Tryzv+ebu+qvcGjW+Ujgwi8IddK47aCCeG0AA8lD75Te88Y6rwTEfqN+P8Gy9VbvCYCWK1AP3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Projekty-Studia\\ZAAWANSOWANE TECHNIKI PROGRAMOWANIA APLIKACJI\\Lab_3\\RabbitMQ\\RabbitMQ\\RabbitMQ\\RabbitMQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\easynetq\\7.0.0-beta5\\easynetq.7.0.0-beta5.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
